@@ -1,0 +1,4 @@
+database.db
+password_log.json
+security_log.json
+__pycache__/
